@@ -1,6 +1,7 @@
 ﻿
 //aplikacjia ma na zadaniu nasladowanie prostego kalkulatora 
 //lecz znjaduje w nim sie blad logiczny
+//cos nie tak jest w jednym z dzialan matematycznych
 int num1 = 0; int num2 = 0;
 
 
